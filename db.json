@@ -1,0 +1,50 @@
+{
+  "productList": [
+    {
+      "productName": "realme 2",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 250000,
+      "comment": "hiiiii",
+      "date": "2022-07-18T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "cwc",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 150,
+      "comment": "no details",
+      "date": "2022-07-27T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "mglgmg",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 52000,
+      "comment": ",,kk",
+      "date": "2022-10-10T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "apple 14",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 10000000,
+      "comment": "mobile",
+      "date": "2022-10-08T18:30:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
